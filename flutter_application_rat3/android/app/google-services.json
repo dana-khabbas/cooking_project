@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109552235004",
+    "project_id": "ratproject3-d91dd",
+    "storage_bucket": "ratproject3-d91dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109552235004:android:366be86a31eed63540c279",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_rat3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJrVg-feIK4okgZMuLT4DYe-gDDISvk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
